@@ -28,3 +28,5 @@ Page_rank.py 用于根据生成的Google matric生成网页链接的稀疏图，
 main.py 用于将上述三个代码文件整合起来，在main.py中修改crawl_num即可修改要爬取的页面链接数量。
 
 使用方法：运行main.py
+
+参考代码：https://github.com/SPbun/goole_pagerank
